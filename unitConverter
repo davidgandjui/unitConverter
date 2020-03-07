@@ -1,0 +1,10 @@
+Objective: This program will allow the user to convert distance and temperature (metric system to U.S. customary units also celcius, kelvin, and farenheit)
+
+Algorithm
+-create a code that asks what unit the user will be converting
+-create code that takes input from user
+-create code that computes conversion from information given
+-create code that restarts when user presses backspace 3 times
+-create code that loops until user restarts the program
+
+PSUEDOCODE
